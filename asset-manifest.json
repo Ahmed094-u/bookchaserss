@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bookchaserss/static/css/main.c1e71e75.css",
+    "main.js": "/bookchaserss/static/js/main.8bac9922.js",
+    "static/media/logo2.png": "/bookchaserss/static/media/logo2.f05fcd4da22f37df458a.png",
+    "static/media/main-image.png": "/bookchaserss/static/media/main-image.45a89625a6974081fe53.png",
+    "static/media/pplmeeting.png": "/bookchaserss/static/media/pplmeeting.3ea4d8a5969bd46a41ea.png",
+    "static/media/pride.jpg": "/bookchaserss/static/media/pride.e0f9c31bfe5c181fa02a.jpg",
+    "static/media/rye.jpg": "/bookchaserss/static/media/rye.a0281d6982f3416babc8.jpg",
+    "static/media/benefit2.png": "/bookchaserss/static/media/benefit2.9be7f94c8113d7f01376.png",
+    "static/media/crawdads.jpg": "/bookchaserss/static/media/crawdads.d03fc807e886250af05e.jpg",
+    "static/media/1984.jpg": "/bookchaserss/static/media/1984.2f281663cc0f473e937e.jpg",
+    "static/media/atomic.jpg": "/bookchaserss/static/media/atomic.8fe6ca2c6bffcedaea6f.jpg",
+    "static/media/benefit1.jpg": "/bookchaserss/static/media/benefit1.daa5fdee432563d3dd32.jpg",
+    "static/media/midnight.jpg": "/bookchaserss/static/media/midnight.13c858a7ddb3cecccdfd.jpg",
+    "static/media/mockingbird.jpg": "/bookchaserss/static/media/mockingbird.03d5c52ed93de27d7759.jpg",
+    "static/media/benefit3.png": "/bookchaserss/static/media/benefit3.56a3f0629541f4e2643c.png",
+    "index.html": "/bookchaserss/index.html",
+    "main.c1e71e75.css.map": "/bookchaserss/static/css/main.c1e71e75.css.map",
+    "main.8bac9922.js.map": "/bookchaserss/static/js/main.8bac9922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e71e75.css",
+    "static/js/main.8bac9922.js"
+  ]
+}
