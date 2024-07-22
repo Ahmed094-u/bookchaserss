@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&display=swap');
+
+.about-page{
+    text-align: center;
+    font-family: 'Cagliostro', cursive;
+  
+  }
+  
+  .about-main {
+    text-align: center;
+    color: black;
+    font-family: 'Cagliostro', cursive;
+    background-color: #F8F4E1;
+    width: 100%;
+    height: 90px;
+  }
+  
+  
+  
+  .about-main h1 {
+    margin-top: 0;
+    text-align: center;
+    color: black;
+    transform: translateY(25px);
+    font-size: 2.5rem;
+  }
+  
+  .about-mission {
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 1.8rem;
+    width: 70%;
+    margin-left: 200px;
+    text-align: center;
+    margin-bottom: 100px;
+    border-radius: 50%;
+  }
+  
+  .about-benefits p {
+    font-size: 1.6rem;
+    width: 100%;
+   
+  }
+  .about-benefits .benefit {
+   display: inline-block;
+    align-items: center;
+  }
+  .bfimg{
+    width: 70% !important;
+  }
+  .about-benefits .benefit img {
+    width: 35%;
+    border-radius: 20%;
+    float: left;
+    margin-right: 90px;
+    margin-bottom: 100px;
+    
+  }
+  
+  
+  
+  .about-team h2 {
+    font-size: 2.4rem;
+    margin: 20px 0;
+  }
+  
+  .about-team .team-members {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .about-team .member img {
+    width: 30%;
+    border-radius: 50%;
+    height: auto;
+    border-style: solid;
+  }
+
+  
+  .about-team .member p {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    line-height: 1.3;
+    text-align: left;
+   letter-spacing: 1.3px;
+    font-family: 'Times New Roman', Times, serif !important;
+  }
+  .m1,.m3{
+    background-color: #F8F4E1;
+    padding: 10px;
+    border-radius: 10%;
+    border-style: solid;
+
+  }
+  .m2{
+    border-radius:10% ;
+    padding: 10px;
+    border-style: solid;
+  }

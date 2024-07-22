@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Cagliostro&display=swap');
+.Home {
+  text-align: center;
+  font-family: 'Cagliostro', cursive;
+  
+}
+
+.homepage {
+  padding: 20px;
+  background-color: #F8F4E1;
+}
+
+.intro-section {
+  display: inline-block;
+  width: 100%;
+  margin-left: 0px;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+.intro-image {
+  width: 700px; /* Adjust the size as needed */
+  height: 480px;
+  margin-right: 20px;
+  transform: translateY(-40px);
+  float:left;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+
+.intro-text {
+  max-width: 500px;
+  text-align: left;
+  float: right;
+  margin-right: 100px;
+
+}
+
+.intro-text h2 {
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+
+.intro-text p {
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+  line-height: 2;
+}
+.important-p{
+    background-color: #ccc;
+    width: auto;
+}
+
+.join-button {
+  padding: 10px 20px;
+  background-color:#74512D;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  transform: translateY(7px);
+}
+
+.join-button:hover {
+  background-color: white;
+  color:#74512D;
+  font-weight: bold;
+}
+
+.book-of-the-month-section {
+  padding: 20px 0;
+  background-color: #fff;
+  border-radius: 30px;
+  width: 45%;
+  margin-left: 10px;
+  float: left;
+  height: 370px;
+  
+}
+.sndiv{
+  display: inline-block;
+}
+.book-of-the-month-section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.book-of-the-month-content {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+
+.book-image {
+  width: 150px; /* Adjust the size as needed */
+  height: auto;
+  margin-right: 0px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 2px solid #74512D; 
+}
+
+.book-description {
+  max-width: 400px;
+  text-align: left;
+  margin-left: 200px;
+  line-height: 2;
+}
+
+.book-description p {
+  font-size: 1.2rem;
+}
+.upcomingg-events{
+ padding:20px;
+
+  background-color: #fff;
+  border-radius: 30px;
+  width: 45%;
+  margin-left: 20px;
+  float: right;
+  height: 370px;
+}
+.up{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.upcoming-events-content{
+  
+    text-align: left;
+    width: 70%;
+    line-height: 1.6;
+    padding-left: 30px;
+
+
+}
+.upcoming-events-content p{
+    font-size: 1.2rem;
+}
+
+.how-to-join{
+    background-color: white;
+    text-align: left;
+    margin-left: 0px;
+    width: 100%;
+    height: 380px;
+}
+.how-to-join h3{
+    color: #74512D;
+    margin-left: 50px;
+}
+.how-to-join p {
+    margin-left: 50px;
+}
+.how-to-join button {
+    padding: 10px 20px;
+  background-color:#74512D;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 650px;
+}
+.testimonials {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates three columns */
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .testimonial {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .testimonial-text {
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .testimonial-author {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 10px;
+  }
+  
